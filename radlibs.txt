@@ -1,0 +1,4 @@
+this is how it works: You can prompt for {a word in square brackets}. 
+If you want to use a word multiple times, prefix the prompt with an 
+{@identifier before the rest of the prompt}. You can then use the same 
+word again if you just use the {@identifier}.
