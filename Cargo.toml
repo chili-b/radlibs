@@ -1,9 +1,10 @@
 [package]
 name = "radlibs"
-description = "a simple rust implementation of the iconic mad-libs game"
+description = "a simple rust implementation of the popular mad-libs game"
 version = "1.0.0"
 authors = ["Dexter Gaon-Shatford <dexter.gaonshatford@gmail.com>"]
 edition = "2018"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
